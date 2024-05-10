@@ -12,4 +12,4 @@ To use the ToDoList, simply open the demo page link provided above and start add
 
 ## Author
 
-This project was created by [Jay](https://github.com/Jay).
+This project was created by [Jay](https://github.com/Jay31kr).
